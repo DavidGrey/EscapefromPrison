@@ -1,0 +1,35 @@
+h1 {color: #ffffff;
+  font-family: 'Gochi Hand', cursive; font-weight: 400; 
+  margin-left:40%;
+}
+
+h2 {color: #ffffff;
+  font-family: 'Gochi Hand', cursive; font-weight: 400; 
+  margin-left:23%;
+  margin-top:2%;
+}
+
+.question {color: #doc7d1;
+  font-family: 'Gochi Hand', cursive; font-weight: 400; 
+  margin-left:18%;
+  margin-top:2.5%;
+}
+
+img.CenterPhoto {
+  width:20%; /* you can use % */
+  height: auto;
+  margin-left:37%;
+}
+
+
+.choice1 {
+  margin-left: 13%;
+  width: 21%;
+  height: 10%;
+}
+
+.choice2 {
+  margin-left: 28%;
+  width: 18%;
+  height: 10%;
+}
